@@ -1,56 +1,38 @@
-<!-- =========================== -->
-<!--      HEADER SECTION         -->
-<!-- =========================== -->
+<div align="center">
 
-<h1 align="center">
-🚀 Hi 👋 I'm Shruti Bawase
-</h1>
+# 👋 Hi, I'm Shruti Bawase
 
-<h3 align="center">
+### 🚀 DevOps Engineer | Azure Cloud | Terraform | Docker | Kubernetes | Azure DevOps
 
-DevOps Engineer | Azure Cloud Engineer | Automation Enthusiast
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1200&color=00C2FF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!;DevOps+Engineer;Azure+Cloud+Engineer;Infrastructure+as+Code;Terraform+%7C+Docker+%7C+Kubernetes;CI%2FCD+Automation;Always+Learning+🚀" />
 
-</h3>
+<br>
 
-<p align="center">
+![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&style=for-the-badge&color=0e75b6)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=900&lines=Welcome+to+My+GitHub;DevOps+Engineer;Azure+Cloud+Engineer;Terraform+Expert+in+Progress;Docker+%7C+Kubernetes;CI%2FCD+Automation;Always+Learning+🚀">
-
-</p>
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge"/>
-
-</p>
+</div>
 
 ---
 
 # 💫 About Me
 
-<img align="right" width="330" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+<img align="right" width="320" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"/>
 
-✔ DevOps Engineer
+🌩 DevOps Engineer passionate about Cloud & Automation
 
-✔ Azure Cloud
+☁ Working with Microsoft Azure
 
-✔ Infrastructure as Code
+🏗 Building Infrastructure using Terraform
 
-✔ Terraform Automation
+🐳 Learning Docker & Kubernetes
 
-✔ Docker & Kubernetes
+⚙ CI/CD using Azure DevOps
 
-✔ Azure DevOps CI/CD
+🐧 Linux | Git | GitHub | Bash | PowerShell
 
-✔ Linux Administration
+🎯 **Goal**
 
-✔ Bash & PowerShell
-
-✔ Passionate about Automation
-
-🎯 Goal
-
-Build Highly Available Cloud Infrastructure with Automation.
+Build Secure, Scalable & Automated Cloud Infrastructure.
 
 ---
 
@@ -64,7 +46,25 @@ Build Highly Available Cloud Infrastructure with Automation.
 
 ---
 
-# ⚡ DevOps Journey
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img width="49%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🚀 DevOps Journey
 
 ```text
 Linux
@@ -92,90 +92,90 @@ Production
 
 ---
 
-# 📊 GitHub Statistics
+# 🌟 Featured Projects
 
-<p align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
-
-</p>
-
----
-
-# 📈 Most Used Languages
-
-<p align="center">
-
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🚀 Featured Projects
-
-| Project | Description |
-|----------|-------------|
-| ☁ Azure Infrastructure | Complete Azure Infra using Terraform |
-| 🐳 Docker Learning | Docker from Beginner to Advanced |
-| ☸ Kubernetes | Deployments, Services, ConfigMaps |
-| 🚀 Azure DevOps | CI/CD Pipelines |
+| 🚀 Project | 💡 Description |
+|------------|----------------|
+| ☁ Azure Terraform Infrastructure | Infrastructure as Code using Terraform |
+| 🐳 Docker Mastery | Docker Beginner to Advanced |
+| ☸ Kubernetes Mastery | Kubernetes Hands-on Labs |
+| 🚀 Azure DevOps CI/CD | YAML Pipelines & Releases |
 | 🐧 Linux Scripts | Automation Scripts |
-| 📘 DevOps Notes | Interview Questions |
+| 📘 DevOps Interview Notes | Azure + Terraform + Docker + K8s |
 
 ---
 
 # 📚 Currently Learning
 
 ```text
-██████████░░░░░░░ Docker
+███████████████░░░ Docker
 
-████████░░░░░░░░ Kubernetes
+████████████░░░░░ Kubernetes
 
-██████░░░░░░░░░░ Helm
+████████░░░░░░░░ Helm
 
-████░░░░░░░░░░░░ Jenkins
+██████░░░░░░░░░░ Jenkins
 
-██░░░░░░░░░░░░░░ Prometheus
+████░░░░░░░░░░░░ Prometheus
 
 ██░░░░░░░░░░░░░░ Grafana
 ```
 
 ---
 
-# 🏆 GitHub Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1&column=6"/>
-
-</p>
-
----
-
 # 💡 DevOps Philosophy
 
 ```text
-Write Once
+Code
 
 ↓
 
-Automate Everything
+Version Control
 
 ↓
 
-Deploy Anywhere
+Automation
 
 ↓
 
-Monitor Continuously
+CI/CD
 
 ↓
 
-Improve Forever
+Containerization
+
+↓
+
+Infrastructure as Code
+
+↓
+
+Cloud
+
+↓
+
+Monitoring
+
+↓
+
+Continuous Improvement
 ```
+
+---
+
+# 📈 Goals for 2026
+
+✅ Master Docker
+
+✅ Master Kubernetes
+
+✅ Build Azure Projects
+
+✅ Learn Helm
+
+✅ Learn Monitoring
+
+✅ Become Senior DevOps Engineer
 
 ---
 
@@ -183,18 +183,14 @@ Improve Forever
 
 <p align="center">
 
-<a href="(https://www.linkedin.com/in/shruti-bawase-a353a9325/)">
-
+<a href="https://www.linkedin.com/in/shruti-bawase-a353a9325/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
-
 </a>
 
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 
-<a href="mailto:YOUR_EMAIL">
-
-<img src="https://skillicons.dev/icons?i=shrutibawase01@gmail.com"/>
-
+<a href="mailto:shrutibawase01@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
 </p>
@@ -203,8 +199,10 @@ Improve Forever
 
 <div align="center">
 
-## ⭐ "Automate Everything That Can Be Automated."
+## ⚡ "Automate Everything That Can Be Automated."
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:1E90FF&height=120&section=footer"/>
+### ⭐ Thanks for visiting my profile ⭐
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0ea5e9,100:2563eb&section=footer"/>
 
 </div>
