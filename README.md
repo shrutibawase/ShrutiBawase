@@ -48,3 +48,76 @@ Let's discuss secure architectures, cloud automation, or open-source DevSecOps t
 <p align="center">
   <i>"Automate everything, secure everything, trust nothing."</i> 🔒✨
 </p>
+
+
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/view?type=waving&color=gradient&height=220&section=header&text=SHRUTI%20BAWASE&fontSize=70&fontColor=ffffff&animation=twinkling&theme=tokyonight" width="100%" />
+</p>
+
+## 🛡️ DevSecOps Engineer | Cloud Automation & Security Architect
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Security-Shift%20Left-FF0055?style=for-the-badge&logo=spyder&logoColor=white" />
+  <img src="https://img.shields.io/badge/Infrastructure-As%20Code-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Automation-Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud-Azure%20Expert-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+</p>
+
+---
+
+### 🌌 About Me
+
+Highly analytical and detail-oriented **DevSecOps Engineer** dedicated to bridging the gap between rapid software development and bulletproof security. Expert in hardening CI/CD pipelines, automating secure hybrid-cloud infrastructures, and executing end-to-end continuous quality testing.
+
+*   🔭 **Current Focus:** Hardening supply-chain security in active Azure pipelines.
+*   🛡️ **Core Philosophy:** *Security is not a blocker; it's a feature.*
+*   ⚡ **Fun Fact:** I break environments via automated testing just to make them unbreakable.
+
+---
+
+### 🚀 Technical Warfare Suite
+
+<br/>
+
+<details open>
+<summary><b>🛠️ Full Tech Stack Ecosystem (Click to collapse)</b></summary>
+<br/>
+
+| Layer | Tools & Technologies |
+| :--- | :--- |
+| **Cloud & Platforms** | <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat&logo=microsoftazure&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" /> |
+| **Automation & Testing** | <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" /> |
+| **IaC & Config** | <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" /> |
+| **CI/CD Engines** | <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white" /> <img src="https://img.shields.io/badge/Azure_Pipelines-2571ED?style=flat&logo=azurepipelines&logoColor=white" /> |
+| **Security Controls** | Azure Key Vault, Vulnerability Auditing, Dependency Analysis, IAM Hardening |
+
+</details>
+
+---
+
+### 📊 System Analytics & Activity
+
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shruti-bawase&theme=tokyonight&bg_color=1a1b27&hide_border=true" width="100%" />
+</p>
+
+---
+
+### 🤝 Connect into the Network
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/shruti-bawase-a353a9325/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:shrutibawase01@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<br />
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/view?type=rect&color=gradient&height=30&section=footer&theme=tokyonight" width="100%" />
+</p>
