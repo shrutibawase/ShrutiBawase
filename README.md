@@ -1,9 +1,17 @@
 # Hi there, I'm Shruti Bawase! 👋 🛡️
-<p align="left">
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Security-Shift%20Left-FF0055?style=for-the-badge&logo=spyder&logoColor=white" />
+  <img src="https://img.shields.io/badge/Infrastructure-As%20Code-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Automation-Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud-Azure%20Expert-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+</p>
+
+<!-- <p align="left">
   <img src="https://img.shields.io/badge/Role-DevSecOps%20Engineer-blueviolet?style=for-the-badge&logo=security&logoColor=white" />
   <img src="https://img.shields.io/badge/Cloud-Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
   <img src="https://img.shields.io/badge/Focus-Shift%20Left%20Security-emerald?style=for-the-badge" />
-</p>
+</p> -->
 
 > **DevSecOps Engineer** deeply passionate about integrating security into the DNA of the software development lifecycle. I specialize in automating infrastructure, building resilient CI/CD pipelines, and shifting security left to deliver secure, high-quality software at speed.
 
@@ -45,28 +53,6 @@ Let's discuss secure architectures, cloud automation, or open-source DevSecOps t
 
 ---
 
-<p align="center">
-  <i>"Automate everything, secure everything, trust nothing."</i> 🔒✨
-</p>
-
-
-
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/view?type=waving&color=gradient&height=220&section=header&text=SHRUTI%20BAWASE&fontSize=70&fontColor=ffffff&animation=twinkling&theme=tokyonight" width="100%" />
-</p>
-
-## 🛡️ DevSecOps Engineer | Cloud Automation & Security Architect
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Security-Shift%20Left-FF0055?style=for-the-badge&logo=spyder&logoColor=white" />
-  <img src="https://img.shields.io/badge/Infrastructure-As%20Code-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/Automation-Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloud-Azure%20Expert-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-</p>
-
----
-
 ### 🌌 About Me
 
 Highly analytical and detail-oriented **DevSecOps Engineer** dedicated to bridging the gap between rapid software development and bulletproof security. Expert in hardening CI/CD pipelines, automating secure hybrid-cloud infrastructures, and executing end-to-end continuous quality testing.
@@ -76,3 +62,10 @@ Highly analytical and detail-oriented **DevSecOps Engineer** dedicated to bridgi
 *   ⚡ **Fun Fact:** I break environments via automated testing just to make them unbreakable.
 
 ---
+## 🛡️ DevSecOps Engineer | Cloud Automation & Security Architect
+
+---
+
+<p align="center">
+  <i>"Automate everything, secure everything, trust nothing."</i> 🔒✨
+</p>
