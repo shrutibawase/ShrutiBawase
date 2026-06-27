@@ -30,15 +30,6 @@
 
 ---
 
-### 📊 Github Metrics & Analytics
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=shruti-bawase&show_icons=true&theme=tokyonight&count_private=true" alt="Shruti's GitHub Stats" height="180px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shruti-bawase&theme=tokyonight" alt="GitHub Streak" height="180px" />
-</p>
-
----
-
 ### 🤝 Connect & Collaborate
 
 Let's discuss secure architectures, cloud automation, or open-source DevSecOps tools!
