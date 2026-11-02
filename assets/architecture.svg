@@ -1,0 +1,163 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 440" width="100%" height="440">
+  <defs>
+    <linearGradient id="archBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#070b14" />
+      <stop offset="50%" stop-color="#0d1527" />
+      <stop offset="100%" stop-color="#090e1c" />
+    </linearGradient>
+
+    <linearGradient id="hubGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#022c22" />
+      <stop offset="100%" stop-color="#064e3b" />
+    </linearGradient>
+
+    <linearGradient id="spokeGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a" />
+      <stop offset="100%" stop-color="#1e293b" />
+    </linearGradient>
+
+    <linearGradient id="aiGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2e1065" />
+      <stop offset="100%" stop-color="#3b0764" />
+    </linearGradient>
+
+    <linearGradient id="secGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#451a03" />
+      <stop offset="100%" stop-color="#7c2d12" />
+    </linearGradient>
+
+    <marker id="arrow" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#38bdf8" />
+    </marker>
+    <marker id="arrow-green" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#10b981" />
+    </marker>
+    <marker id="arrow-purple" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#c084fc" />
+    </marker>
+  </defs>
+
+  <style>
+    .box-title { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 13px; font-weight: 800; fill: #ffffff; letter-spacing: 0.5px; }
+    .box-sub { font-family: 'Fira Code', monospace; font-size: 10px; fill: #94a3b8; }
+    .conn-label { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 9.5px; font-weight: 700; fill: #38bdf8; }
+    .arch-header { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 16px; font-weight: 900; fill: #ffffff; letter-spacing: 1px; }
+  </style>
+
+  <!-- Container -->
+  <rect width="920" height="440" rx="14" fill="url(#archBg)" stroke="#1e293b" stroke-width="1.5" />
+
+  <!-- Title Bar -->
+  <g transform="translate(30, 32)">
+    <circle cx="6" cy="6" r="4" fill="#38bdf8" />
+    <text x="20" y="11" class="arch-header">ENTERPRISE CLOUD ARCHITECTURE &bull; HUB-AND-SPOKE &bull; AI AGENTIC LAYER</text>
+  </g>
+
+  <!-- 1. Hybrid / On-Prem Box -->
+  <g transform="translate(30, 60)">
+    <rect width="250" height="150" rx="10" fill="url(#spokeGrad)" stroke="#38bdf8" stroke-width="1.5" />
+    <text x="16" y="26" class="box-title">🏢 Hybrid Datacenter &amp; Edge</text>
+    <line x1="16" y1="36" x2="234" y2="36" stroke="#334155" stroke-width="1" />
+    <rect x="16" y="46" width="218" height="42" rx="6" fill="#0f172a" stroke="#1e293b" />
+    <text x="26" y="64" font-family="sans-serif" font-size="11" font-weight="700" fill="#f8fafc">100+ Enterprise Workloads</text>
+    <text x="26" y="78" class="box-sub">VMware / Hyper-V Legacy Monolith</text>
+    <rect x="16" y="96" width="218" height="38" rx="6" fill="#0f172a" stroke="#1e293b" />
+    <text x="26" y="113" font-family="sans-serif" font-size="10.5" font-weight="700" fill="#38bdf8">ExpressRoute / S2S VPN</text>
+    <text x="26" y="125" class="box-sub">10 Gbps Active-Active Encrypted</text>
+  </g>
+
+  <!-- 2. Hub VNet Box -->
+  <g transform="translate(335, 60)">
+    <rect width="250" height="150" rx="10" fill="url(#hubGrad)" stroke="#10b981" stroke-width="1.5" />
+    <text x="16" y="26" class="box-title">🛡️ Hub VNet (Central Governance)</text>
+    <line x1="16" y1="36" x2="234" y2="36" stroke="#047857" stroke-width="1" />
+    <rect x="16" y="46" width="218" height="42" rx="6" fill="#022c22" stroke="#065f46" />
+    <text x="26" y="64" font-family="sans-serif" font-size="11" font-weight="700" fill="#a7f3d0">Azure Firewall Premium</text>
+    <text x="26" y="78" class="box-sub">Forced 0.0.0.0/0 UDR + TLS Inspect</text>
+    <rect x="16" y="96" width="218" height="38" rx="6" fill="#022c22" stroke="#065f46" />
+    <text x="26" y="113" font-family="sans-serif" font-size="10.5" font-weight="700" fill="#6ee7b7">Private DNS Zones &amp; PIM</text>
+    <text x="26" y="125" class="box-sub">Just-In-Time Zero-Trust Access</text>
+  </g>
+
+  <!-- 3. Spoke Workloads Box -->
+  <g transform="translate(640, 60)">
+    <rect width="250" height="150" rx="10" fill="url(#spokeGrad)" stroke="#818cf8" stroke-width="1.5" />
+    <text x="16" y="26" class="box-title">📦 Spoke VNets (Isolated Tiers)</text>
+    <line x1="16" y1="36" x2="234" y2="36" stroke="#334155" stroke-width="1" />
+    <rect x="16" y="46" width="218" height="42" rx="6" fill="#0f172a" stroke="#1e293b" />
+    <text x="26" y="64" font-family="sans-serif" font-size="11" font-weight="700" fill="#e0e7ff">App Tier: Microservices (AKS)</text>
+    <text x="26" y="78" class="box-sub">NSG/ASG Microsegmented &bull; VMSS</text>
+    <rect x="16" y="96" width="218" height="38" rx="6" fill="#0f172a" stroke="#1e293b" />
+    <text x="26" y="113" font-family="sans-serif" font-size="10.5" font-weight="700" fill="#a5b4fc">Data Tier: Azure SQL / KV</text>
+    <text x="26" y="125" class="box-sub">Private Endpoints &bull; CMK Encrypted</text>
+  </g>
+
+  <!-- 4. Shift-Left DevSecOps Box -->
+  <g transform="translate(30, 245)">
+    <rect width="415" height="165" rx="10" fill="url(#secGrad)" stroke="#f97316" stroke-width="1.5" />
+    <text x="18" y="26" class="box-title">🚀 Shift-Left DevSecOps Pipeline (Zero-Trust)</text>
+    <line x1="18" y1="36" x2="397" y2="36" stroke="#9a3412" stroke-width="1" />
+    
+    <g transform="translate(18, 48)">
+      <rect width="86" height="48" rx="6" fill="#431407" stroke="#7c2d12" />
+      <text x="8" y="20" font-family="sans-serif" font-size="10" font-weight="700" fill="#fdba74">1. GitLeaks</text>
+      <text x="8" y="36" class="box-sub">Secrets Scan</text>
+    </g>
+    <path d="M 108 72 L 122 72" stroke="#ea580c" stroke-width="2" marker-end="url(#arrow)" />
+
+    <g transform="translate(126, 48)">
+      <rect width="90" height="48" rx="6" fill="#431407" stroke="#7c2d12" />
+      <text x="8" y="20" font-family="sans-serif" font-size="10" font-weight="700" fill="#fdba74">2. Checkov</text>
+      <text x="8" y="36" class="box-sub">IaC CIS v2.0</text>
+    </g>
+    <path d="M 220 72 L 234 72" stroke="#ea580c" stroke-width="2" marker-end="url(#arrow)" />
+
+    <g transform="translate(238, 48)">
+      <rect width="86" height="48" rx="6" fill="#431407" stroke="#7c2d12" />
+      <text x="8" y="20" font-family="sans-serif" font-size="10" font-weight="700" fill="#fdba74">3. Infracost</text>
+      <text x="8" y="36" class="box-sub">FinOps Gate</text>
+    </g>
+    <path d="M 328 72 L 342 72" stroke="#ea580c" stroke-width="2" marker-end="url(#arrow)" />
+
+    <g transform="translate(346, 48)">
+      <rect width="52" height="48" rx="6" fill="#431407" stroke="#7c2d12" />
+      <text x="6" y="20" font-family="sans-serif" font-size="9" font-weight="700" fill="#fdba74">4. Cosign</text>
+      <text x="6" y="36" class="box-sub">SLSA L3</text>
+    </g>
+
+    <rect x="18" y="108" width="380" height="42" rx="6" fill="#2d0c03" stroke="#7c2d12" />
+    <text x="28" y="125" font-family="sans-serif" font-size="10.5" font-weight="700" fill="#fed7aa">ArgoCD Declarative GitOps Deployment</text>
+    <text x="28" y="139" class="box-sub">Continuous drift reconciliation directly into AKS clusters</text>
+  </g>
+
+  <!-- 5. Autonomous AI & LLMOps Engine Box -->
+  <g transform="translate(475, 245)">
+    <rect width="415" height="165" rx="10" fill="url(#aiGrad)" stroke="#a855f7" stroke-width="1.5" />
+    <text x="18" y="26" class="box-title">🤖 Autonomous AI &amp; LLMOps Engine</text>
+    <line x1="18" y1="36" x2="397" y2="36" stroke="#6b21a8" stroke-width="1" />
+
+    <g transform="translate(18, 48)">
+      <rect width="180" height="48" rx="6" fill="#1e1035" stroke="#581c87" />
+      <text x="12" y="20" font-family="sans-serif" font-size="10.5" font-weight="700" fill="#d8b4fe">Model Context Protocol</text>
+      <text x="12" y="35" class="box-sub">Custom MCP Server (Safe K8s &amp; State)</text>
+    </g>
+
+    <g transform="translate(210, 48)">
+      <rect width="188" height="48" rx="6" fill="#1e1035" stroke="#581c87" />
+      <text x="12" y="20" font-family="sans-serif" font-size="10.5" font-weight="700" fill="#d8b4fe">Enterprise SRE RAG Copilot</text>
+      <text x="12" y="35" class="box-sub">Qdrant Vector Runbook Search</text>
+    </g>
+
+    <rect x="18" y="108" width="380" height="42" rx="6" fill="#19092b" stroke="#581c87" />
+    <text x="28" y="125" font-family="sans-serif" font-size="10.5" font-weight="700" fill="#f3e8ff">Autonomous SRE Remediation Agent</text>
+    <text x="28" y="139" class="box-sub">Parses OOMKilled/Drifts &bull; Generates auto-healing PRs with 1-click merge</text>
+  </g>
+
+  <!-- Flow Lines -->
+  <!-- OnPrem to Hub -->
+  <path d="M 280 135 L 335 135" stroke="#38bdf8" stroke-width="2" marker-end="url(#arrow)" />
+  <!-- Hub to Spoke -->
+  <path d="M 585 135 L 640 135" stroke="#10b981" stroke-width="2" marker-end="url(#arrow-green)" />
+  <!-- AI Loop to Spoke -->
+  <path d="M 760 245 L 760 215" stroke="#c084fc" stroke-width="2" marker-end="url(#arrow-purple)" />
+</svg>
