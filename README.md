@@ -2,7 +2,7 @@
 
   <!-- ==================== HIGH-RES RETINA HERO BANNER ==================== -->
   <a href="https://github.com/shrutibawase">
-    <img src="https://github.com/shrutibawase/ShrutiBawase/raw/main/assets/banner.png" width="100%" alt="Shruti Bawase - Lead DevSecOps & Enterprise Cloud Architect" />
+    <img src="https://raw.githubusercontent.com/shrutibawase/ShrutiBawase/main/assets/banner.png" width="100%" alt="Shruti Bawase - Lead DevSecOps & Enterprise Cloud Architect" />
   </a>
 
   <br/><br/>
@@ -118,7 +118,7 @@ Hello! I am **Shruti Bawase** <img src="https://media.giphy.com/media/hvRJCLFzca
 ## 🏛️ Enterprise Cloud Architecture & AI Reasoning Blueprint
 
 <div align="center">
-  <img src="https://github.com/shrutibawase/ShrutiBawase/raw/main/assets/architecture.png" width="100%" alt="Enterprise Cloud Architecture Blueprint" />
+  <img src="https://raw.githubusercontent.com/shrutibawase/ShrutiBawase/main/assets/architecture.png" width="100%" alt="Enterprise Cloud Architecture Blueprint" />
 </div>
 
 <br/>
