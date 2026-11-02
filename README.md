@@ -1,13 +1,20 @@
 <div align="center">
 
-  <!-- ==================== ABSOLUTE RAW ANIMATED HERO BANNER ==================== -->
+  <!-- ==================== HIGH-RES RETINA HERO BANNER ==================== -->
   <a href="https://github.com/shrutibawase">
-    <img src="https://raw.githubusercontent.com/shrutibawase/ShrutiBawase/main/assets/banner.svg" width="100%" alt="Shruti Bawase - Enterprise DevSecOps & Cloud Architect" />
+    <img src="https://github.com/shrutibawase/ShrutiBawase/raw/main/assets/banner.png" width="100%" alt="Shruti Bawase - Lead DevSecOps & Enterprise Cloud Architect" />
   </a>
 
   <br/><br/>
 
-  <!-- ==================== CONNECT & QUICK NAVIGATION ==================== -->
+  <!-- ==================== ANIMATED DYNAMIC TYPEWRITER ==================== -->
+  <a href="https://github.com/shrutibawase">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&width=820&lines=👋+Hi%2C+I'm+Shruti+Bawase+—+Senior+DevSecOps+%26+Cloud+Architect;🚀+Architected+100%2B+Workload+Cloud+Migrations+with+Zero+Downtime;🛡️+Zero-Trust+DevSecOps+%7C+SLSA+Level+3+%7C+Cosign+%26+Kyverno;🤖+AI+%26+LLMOps+Infrastructure+%7C+Model+Context+Protocol+(MCP)+%26+RAG;💰+FinOps+Practitioner+%7C+Slashed+Cloud+OPEX+by+28%25%2B;⚡+Autonomous+Self-Healing+CI%2FCD+Pipelines+%26+SRE+AI+Agents" alt="Animated Roles" />
+  </a>
+
+  <br/><br/>
+
+  <!-- ==================== SOCIAL PILLS & CONNECT ==================== -->
   <p align="center">
     <a href="https://www.linkedin.com/in/shruti-bawase-a353a9325/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20Shruti-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -26,9 +33,18 @@
 
 ---
 
-### 🌐 Welcome to My Digital Portfolio
+### 💫 Welcome to My Digital Portfolio & Architecture Showcase
 
-> *"I bridge **Zero-Trust Enterprise Cloud Architecture**, **Shift-Left DevSecOps**, and **Autonomous AI/LLMOps Systems**. From architecting multi-region Microsoft Azure landing zones and migrating 100+ mission-critical workloads, to deploying custom Model Context Protocol (MCP) agents that eliminate operational toil."*
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="340" alt="Cloud Infrastructure Animation" />
+
+Hello! I am **Shruti Bawase** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" /> — a **Lead DevSecOps Engineer & Enterprise Cloud Solutions Architect** with **3.3+ years** of intensive experience building zero-trust cloud platforms and pioneering autonomous AI systems.
+
+- 🏗️ **Architected & Migrated 100+ Enterprise Workloads** from on-premises datacenters into Microsoft Azure with zero downtime.
+- 🛡️ **Zero-Trust Supply Chain Security**: Enforced SLSA Level 3 compliance, Sigstore Cosign container signing, SBOM attestation, and Kyverno admission controls.
+- 💰 **FinOps Champion**: Slashed cloud OPEX by **28%+** across multi-subscription environments using Infracost PR gates and DCR log tuning.
+- 🤖 **Pioneered AI & LLMOps Infrastructure**: Built custom **Model Context Protocol (MCP)** servers, SRE RAG Copilots, and self-healing CI/CD agents, dropping MTTR by **65%**.
+
+<br clear="right"/>
 
 ---
 
@@ -102,8 +118,15 @@
 ## 🏛️ Enterprise Cloud Architecture & AI Reasoning Blueprint
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/shrutibawase/ShrutiBawase/main/assets/architecture.svg" width="100%" alt="Enterprise Cloud Architecture Blueprint" />
+  <img src="https://github.com/shrutibawase/ShrutiBawase/raw/main/assets/architecture.png" width="100%" alt="Enterprise Cloud Architecture Blueprint" />
 </div>
+
+<br/>
+
+> **Architectural Highlights:**
+> - **Transit Core:** ExpressRoute Active-Active connectivity terminating at a centralized **Hub VNet**.
+> - **Zero-Trust Egress:** User Defined Routes (UDRs `0.0.0.0/0`) forcing all egress through **Azure Firewall Premium** with TLS inspection.
+> - **Autonomous Reasoning Layer:** Custom **Model Context Protocol (MCP)** server providing safe cluster inspection to LLMs, retrieving verified runbooks via vector search, and dispatching self-healing PRs.
 
 ---
 
@@ -129,7 +152,13 @@
 
 ---
 
-## 📈 Engineering Velocity & Live GitHub Stats
+## 🐍 Contribution Velocity & Live GitHub Stats
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake Animation" />
+</div>
+
+<br/>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shrutibawase&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" alt="GitHub Stats" />
