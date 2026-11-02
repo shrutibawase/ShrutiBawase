@@ -7,14 +7,7 @@
 
   <br/><br/>
 
-  <!-- ==================== ANIMATED DYNAMIC TYPEWRITER ==================== -->
-  <a href="https://github.com/shrutibawase">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&width=820&lines=👋+Hi%2C+I'm+Shruti+Bawase+—+Senior+DevSecOps+%26+Cloud+Architect;🚀+Architected+100%2B+Workload+Cloud+Migrations+with+Zero+Downtime;🛡️+Zero-Trust+DevSecOps+%7C+SLSA+Level+3+%7C+Cosign+%26+Kyverno;🤖+AI+%26+LLMOps+Infrastructure+%7C+Model+Context+Protocol+(MCP)+%26+RAG;💰+FinOps+Practitioner+%7C+Slashed+Cloud+OPEX+by+28%25%2B;⚡+Autonomous+Self-Healing+CI%2FCD+Pipelines+%26+SRE+AI+Agents" alt="Animated Roles" />
-  </a>
-
-  <br/><br/>
-
-  <!-- ==================== SOCIAL PILLS & CONNECT ==================== -->
+  <!-- ==================== CONNECT & QUICK NAVIGATION ==================== -->
   <p align="center">
     <a href="https://www.linkedin.com/in/shruti-bawase-a353a9325/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20Shruti-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -33,24 +26,30 @@
 
 ---
 
-### 💫 Welcome to My Digital Portfolio & Architecture Showcase
+### 💫 Executive Summary & Value Proposition
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="340" alt="Cloud Infrastructure Animation" />
-
-Hello! I am **Shruti Bawase** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" /> — a **Lead DevSecOps Engineer & Enterprise Cloud Solutions Architect** with **3.3+ years** of intensive experience building zero-trust cloud platforms and pioneering autonomous AI systems.
-
-- 🏗️ **Architected & Migrated 100+ Enterprise Workloads** from on-premises datacenters into Microsoft Azure with zero downtime.
-- 🛡️ **Zero-Trust Supply Chain Security**: Enforced SLSA Level 3 compliance, Sigstore Cosign container signing, SBOM attestation, and Kyverno admission controls.
-- 💰 **FinOps Champion**: Slashed cloud OPEX by **28%+** across multi-subscription environments using Infracost PR gates and DCR log tuning.
-- 🤖 **Pioneered AI & LLMOps Infrastructure**: Built custom **Model Context Protocol (MCP)** servers, SRE RAG Copilots, and self-healing CI/CD agents, dropping MTTR by **65%**.
-
-<br clear="right"/>
+<table width="100%" border="0">
+  <tr>
+    <td width="65%" valign="middle">
+      <p>Hello! I am <b>Shruti Bawase</b> — a <b>Lead DevSecOps Engineer &amp; Enterprise Cloud Solutions Architect</b> with <b>3.3+ years</b> of specialized experience designing resilient, zero-trust cloud platforms and pioneering autonomous AI systems.</p>
+      <ul>
+        <li>🚀 <b>100+ Workload Migrations:</b> Orchestrated end-to-end zero-downtime cutovers from on-premises VMware/Hyper-V to Microsoft Azure CAF Landing Zones.</li>
+        <li>🛡️ <b>Zero-Trust Supply Chain Security:</b> Enforced SLSA Level 3 compliance, Sigstore Cosign container signing, SBOM generation, and Kyverno admission controls.</li>
+        <li>💰 <b>FinOps Engineering:</b> Slashed cloud OPEX by <b>28%+</b> via Infracost pull request budget gates, VM rightsizing, and DCR log tuning.</li>
+        <li>🤖 <b>Autonomous AI &amp; LLMOps:</b> Built custom <b>Model Context Protocol (MCP)</b> servers, SRE RAG Copilots, and self-healing CI/CD agents, cutting MTTR by <b>65%</b>.</li>
+      </ul>
+    </td>
+    <td width="35%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Cloud Infrastructure Animation" />
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🚀 Flagship Production Repositories
 
-<table width="100%">
+<table width="100%" border="0">
   <tr>
     <td width="50%" valign="top">
       <h3>🏛️ <a href="https://github.com/shrutibawase/azure-enterprise-landing-zones">azure-enterprise-landing-zones</a></h3>
@@ -68,7 +67,7 @@ Hello! I am **Shruti Bawase** <img src="https://media.giphy.com/media/hvRJCLFzca
     </td>
     <td width="50%" valign="top">
       <h3>🤖 <a href="https://github.com/shrutibawase/agentic-devsecops-copilot">agentic-devsecops-copilot</a></h3>
-      <p><b>Autonomous AI DevSecOps & SRE Copilot Platform</b></p>
+      <p><b>Autonomous AI DevSecOps &amp; SRE Copilot Platform</b></p>
       <ul>
         <li><b>Model Context Protocol:</b> Custom JSON-RPC 2.0 MCP server for zero-leakage cluster queries.</li>
         <li><b>SRE RAG Engine:</b> Semantic search indexing post-mortems and KQL runbooks.</li>
@@ -84,7 +83,7 @@ Hello! I am **Shruti Bawase** <img src="https://media.giphy.com/media/hvRJCLFzca
   <tr>
     <td width="50%" valign="top">
       <h3>🔒 <a href="https://github.com/shrutibawase/zero-trust-k8s-gitops">zero-trust-k8s-gitops</a></h3>
-      <p><b>Kubernetes GitOps & SLSA Level 3 Supply Chain Security</b></p>
+      <p><b>Kubernetes GitOps &amp; SLSA Level 3 Supply Chain Security</b></p>
       <ul>
         <li><b>Cryptographic Signing:</b> Keyless OIDC container signing with <b>Sigstore Cosign</b>.</li>
         <li><b>Admission Control:</b> <b>Kyverno</b> policies enforcing non-root and verified signatures.</li>
@@ -98,7 +97,7 @@ Hello! I am **Shruti Bawase** <img src="https://media.giphy.com/media/hvRJCLFzca
     </td>
     <td width="50%" valign="top">
       <h3>💰 <a href="https://github.com/shrutibawase/cloud-finops-sentinel">cloud-finops-sentinel</a></h3>
-      <p><b>Automated Cloud Waste Elimination & Rightsizing Sentinel</b></p>
+      <p><b>Automated Cloud Waste Elimination &amp; Rightsizing Sentinel</b></p>
       <ul>
         <li><b>Waste Reaper:</b> Detects orphaned managed disks, unassociated IPs, and idle gateways.</li>
         <li><b>Compute Rightsizing:</b> Analyzes 30-day P95/P99 CPU/RAM to downsize over-provisioned SKUs.</li>
@@ -152,7 +151,7 @@ Hello! I am **Shruti Bawase** <img src="https://media.giphy.com/media/hvRJCLFzca
 
 ---
 
-## 🐍 Contribution Velocity & Live GitHub Stats
+## 🐍 Contribution Velocity & Engineering Metrics
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake Animation" />
@@ -161,8 +160,7 @@ Hello! I am **Shruti Bawase** <img src="https://media.giphy.com/media/hvRJCLFzca
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shrutibawase&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shrutibawase&theme=tokyonight&fire=FF5722&hide_border=true" width="48%" alt="GitHub Streak" />
+  <img src="https://raw.githubusercontent.com/shrutibawase/ShrutiBawase/main/assets/stats.png" width="100%" alt="Enterprise Engineering Metrics" />
 </div>
 
 ---
